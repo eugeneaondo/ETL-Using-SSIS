@@ -17,6 +17,8 @@ Run the package by right-clicking on the package and selecting "Execute"
 Control Flow
 The package includes control flow tasks such as "Data Flow Task" and "Execute SQL Task" that can be configured as per your requirement.
 
+![etl-in-ssis](https://github.com/eugeneaondo/ETL-Using-SSIS/assets/51509202/c6639577-c0a8-4075-bbcf-3abf5b9f185a)
+
 Note
 Please make sure that the excel sheet should have the same structure and columns as per the package has been designed.
 
