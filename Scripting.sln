@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Scripting", "Scripting\Scripting.dtproj", "{EB8BA845-856C-48B6-AB5C-41F5EEB305F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB8BA845-856C-48B6-AB5C-41F5EEB305F3}.Development|Default.ActiveCfg = Development
+		{EB8BA845-856C-48B6-AB5C-41F5EEB305F3}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A4EF97C-89E3-473D-B2E1-2A44C5876C60}
+	EndGlobalSection
+EndGlobal
